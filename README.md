@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Wonjae Choi</h3>
+  <h3>Wonje Choi</h3>
   <p>'근거 있는 개발'을 하는 백엔드 개발자입니다.</p>
   <br/>
   <h4>About</h4>
