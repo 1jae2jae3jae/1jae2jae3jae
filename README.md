@@ -1,28 +1,13 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=HELLO😁%20I'm%20Wonje!&animation=twinkling&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😆About ME! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> '근거있는 개발'을 하는 개발자입니다.</li><li> 꾸준히 성장하는 사람입니다.</li><li> 사람을 좋아합니다. </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-        <img src="https://camo.githubusercontent.com/5329a57f7cb2009c3ef1275b6f37fdd01880cf4799c6e12bf597da0796965a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/iamcirclejae/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/iamcirclejae/"> </a>
-         <a href=https://colorful-soldier-465.notion.site/PORTFOLIO-of-Wonjae-Choi-2a8141a89a1c813b8eeee44138c7a16e?pvs=74> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://colorful-soldier-465.notion.site/PORTFOLIO-of-Wonjae-Choi-2a8141a89a1c813b8eeee44138c7a16e?pvs=74"> </a>
-         <a href=mailto:drawje01@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drawje01@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
+Wonjae Choi
+'근거 있는 개발'을 하는 백엔드 개발자입니다.
+
+<br/>
+About Me
+근거 있는 개발 — 왜 이 기술을, 왜 이 구조로 선택했는지 설명할 수 있는 코드를 씁니다.
+꾸준한 성장 — 어제보다 조금 더 나아지는 것을 목표로 매일 기록하고 회고합니다.
+사람을 좋아합니다 — 함께 만들 때 더 멀리 간다고 믿고, 팀 안에서 잘 어울리는 개발자를 지향합니다.
+<br/>
+Tech Stack
+<table> <tr> <td><b>Language</b></td> <td> <img src="https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-0D1117?style=flat&logo=cplusplus&logoColor=white" /> </td> </tr> <tr> <td><b>Backend</b></td> <td> <img src="https://img.shields.io/badge/Spring-0D1117?style=flat&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Django-0D1117?style=flat&logo=django&logoColor=white" /> </td> </tr> <tr> <td><b>Database</b></td> <td> <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=white" /> </td> </tr> <tr> <td><b>DevOps &amp; Tools</b></td> <td> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" /> </td> </tr> </table> <br/>
+Contact
+<a href="https://colorful-soldier-465.notion.site/PORTFOLIO-of-Wonjae-Choi-2a8141a89a1c813b8eeee44138c7a16e?pvs=74"> <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat&logo=notion&logoColor=white" /> </a> <a href="mailto:drawje01@gmail.com"> <img src="https://img.shields.io/badge/drawje01@gmail.com-0D1117?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/iamcirclejae/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white" /> </a>
