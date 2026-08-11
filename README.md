@@ -5,27 +5,34 @@
   <h4>About</h4>
   <p>
     '근거있는 개발'을 추구하는 사람입니다!<br/>
-    "팀보다 위대한 선수는 없다."
+    "팀보다 위대한 선수는 없다."<br/>
   </p>
   <br/>
   <h4>Tech Stack</h4>
   <p>
+    <b>Language</b><br/>
     <img src="https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-0D1117?style=flat&logo=cplusplus&logoColor=white" />
-    <br/>
+  </p>
+  <p>
+    <b>Backend</b><br/>
     <img src="https://img.shields.io/badge/Spring-0D1117?style=flat&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-0D1117?style=flat&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-0D1117?style=flat&logo=django&logoColor=white" />
-    <br/>
+  </p>
+  <p>
+    <b>Database</b><br/>
     <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MariaDB-0D1117?style=flat&logo=mariadb&logoColor=white" />
-    <br/>
+  </p>
+  <p>
+    <b>Infra &amp; DevOps</b><br/>
     <img src="https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon%20RDS-0D1117?style=flat&logo=amazonrds&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=white" />
-    <br/>
     <img src="https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat&logo=githubactions&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" />
